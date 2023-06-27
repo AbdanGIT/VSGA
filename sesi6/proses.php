@@ -55,7 +55,7 @@
                 if ($_SERVER["REQUEST_METHOD"] == "POST") {
                     $nama = $_POST["nama"];
                     $alamat = $_POST["alamat"];
-                    $kota = $_POST["kota"];
+                    $tempat = $_POST["tempat"];
                     $jenis_kelamin = $_POST["jenis_kelamin"];
                     $usia = $_POST["usia"];
                 ?>
@@ -66,7 +66,7 @@
                         <strong>Alamat:</strong> <?php echo $alamat ?>
                     </div>
                     <div class="profile-info">
-                        <strong>Kota:</strong> <?php echo  $kota ?>
+                        <strong>Tempat:</strong> <?php echo  $tempat ?>
                     </div>
                     <div class="profile-info">
                         <strong>Jenis Kelamin:</strong> <?php echo  $jenis_kelamin ?>

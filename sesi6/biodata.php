@@ -30,8 +30,8 @@
                         <input type="text" class="form-control" id="alamat" name="alamat" required>
                     </div>
                     <div class="mb-3">
-                        <label for="kota" class="form-label">Kota</label>
-                        <input type="text" class="form-control" id="kota" name="kota" required>
+                        <label for="Tempat" class="form-label">Tempat</label>
+                        <input type="text" class="form-control" id="tempat" name="tempat" required>
                     </div>
                     <div class="mb-3">
                         <label for="jenis_kelamin" class="form-label">Jenis Kelamin</label>
