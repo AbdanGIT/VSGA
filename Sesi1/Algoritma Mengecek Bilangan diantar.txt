@@ -1,0 +1,8 @@
+Algoritma Mengecek Bilangan diantara 2 bilangan masukkan, apakah sama atau lebih besar satunya , dan tampilkan hasilnya
+
+
+1. masukkan Bilangan A
+2. masukkan Bilangan B
+3. Jika Bilangan A = B maka tampilkan Nilai Bilangan Sama.
+4. Jika Bilangan A > B maka tampilkan NIlai A lebih besar dari B
+5. Jika Bilangan A < B maka Tampilkan Nilai B Lebih besar dari A

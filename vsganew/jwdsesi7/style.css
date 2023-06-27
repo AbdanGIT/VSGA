@@ -1,0 +1,22 @@
+html,
+body {
+  height: 100%;
+  background-color: white;
+}
+
+h1{
+  text-align: center;
+}
+
+
+.global-container {
+  height: 100%;
+  width: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: green;
+}
+
+
+

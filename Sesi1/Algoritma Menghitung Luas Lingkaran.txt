@@ -1,0 +1,11 @@
+<!-- 
+Algoritma Membuat Luas Lingkaran
+
+1.buat variable float phi = 3.14 , jarijari,luas
+2.Masukkan Jari Jari Lingkaran dari pengguna
+2.Masukkan Jari jari dari pengguna ke dalam variable jari2
+3.Buat Rumus luas Lingkaran "luas = π(3.14) *jarijari * jarijari"
+4.simpan hasil perhitungan luas ke dalam variable 'Luas'
+5.Tampilkan Hasil 'Luas' ke pengguna
+
+-->
