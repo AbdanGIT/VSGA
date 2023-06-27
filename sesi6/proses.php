@@ -50,7 +50,7 @@
     <div class="container">
         <div class="card">
             <div class="card-body">
-                <h1 class="card-title md-3">Hasil Biodata Diri</h1>
+                <h1 class="card-title md-3">aHsil Biodata Diri</h1>
                 <?php
                 if ($_SERVER["REQUEST_METHOD"] == "POST") {
                     $nama = $_POST["nama"];
