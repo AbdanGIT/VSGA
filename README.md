@@ -13,7 +13,10 @@ ini jika nama sdh di masukkan
 
 ![image](https://github.com/AbdanGIT/VSGA/assets/124424831/2118d1d5-c6bd-4449-bcf4-65cadfe4e9c6)
 
+Berikut adalah tampilan dari Sesi 6 Biodata.php
+![image](https://github.com/AbdanGIT/VSGA/assets/124424831/3b22879a-3845-4a29-a7da-3def6a8267c7)
 
+hasil dari input
 
 ![image](https://github.com/AbdanGIT/VSGA/assets/124424831/ac94dd81-40a5-4427-afff-c733e0525f6d)
 
