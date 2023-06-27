@@ -15,19 +15,19 @@
         <br>
         <input type="text" name="" id="">
         <br>
-        <label for="nama">Alamat</label>
+        <label for="alamat">Alamat</label>
         <br>
         <input type="text" name="" id="">
         <br>
-        <label for="nama">Tempat</label>
+        <label for="tempat">Tempat</label>
         <br>
         <input type="text" name="" id="">
         <br>
-        <label for="nama">Jenis kelamin</label>
+        <label for="jenis_kelamin">Jenis kelamin</label>
         <br>
         <input type="text" name="" id="">
         <br>
-        <label for="nama">usia</label>
+        <label for="usia">usia</label>
         <br>
         <input type="text" name="" id="">
         <br>
